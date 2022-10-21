@@ -2,8 +2,8 @@
 #include "main"
 /**
  * mul - Multiplies two integers.
- * @a: is the first integer
- * @b: is the second integer
+ * @a: first integer
+ * @b: second integer
  * Return: addition of a and b
  */
 int mul(int a, int b)
