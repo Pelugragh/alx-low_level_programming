@@ -6,7 +6,7 @@
  * @a: is the first integer
  * @b: is the second integer
  *
- * Return: multiplication of a and b
+ * Return: addition of a and b
  */
 
 int mul(int a, int b)
